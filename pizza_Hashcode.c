@@ -2,7 +2,7 @@
 void main()
 {
     long m,n;
-    printf("Input : \n");
+    printf("Input:\n");
     scanf("%ld %ld",&m,&n);
     long a[100000],b[100000],c[100000];
     for(long i=0;i<n;i++)
